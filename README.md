@@ -1,5 +1,6 @@
 #MovieMania the Movie DB app (Made with ReactJS , Tailwind with public TMDB API)
-
+##Images->
+[image](https://github.com/tanishkandira/MovieMania/blob/main/img1.png?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
