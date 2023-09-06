@@ -1,4 +1,5 @@
-#MovieMania the Movie DB app (Made with ReactJS , Tailwind with public TMDB API)
+# MovieMania the Movie DB app (Made with ReactJS , Tailwind with public TMDB API)
+
 ![img1](https://github.com/tanishkandira/MovieMania/assets/76102402/c7beadcc-1e3e-4397-934e-22beeb3cf842)
 ![img2](https://github.com/tanishkandira/MovieMania/assets/76102402/36958cb0-1887-447c-a91b-c926a282ba7c)
 ![img3](https://github.com/tanishkandira/MovieMania/assets/76102402/1d154733-9a50-41db-9358-4214b278964a)
