@@ -1,4 +1,8 @@
 # MovieMania the Movie DB app (Made with ReactJS , Tailwind with public TMDB API)
+![2023-09-06 12_15_15-Search result for John Wick _ Cinemate - Brave](https://github.com/tanishkandira/MovieMania/assets/76102402/f4e8051e-bedc-4858-8499-975f317a738e)
+![2023-09-06 12_15_32-](https://github.com/tanishkandira/MovieMania/assets/76102402/77f5cb40-9399-4f78-9824-c6ebd99cfd5c)
+![2023-09-06 12_14_27-Public Leech Bot – (285414)](https://github.com/tanishkandira/MovieMania/assets/76102402/be720863-e223-4d55-bfcd-cb46bf7eaf3c)
+![2023-09-06 12_14_47-](https://github.com/tanishkandira/MovieMania/assets/76102402/488a4548-9975-43b2-b41c-3fa7761bed69)
 
 
 
